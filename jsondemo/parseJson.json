@@ -1,0 +1,22 @@
+{
+    "Result": 1,
+    "ResultMessage": "2000",
+    "ResultValue": [
+        {
+            "cpuRatio": "4.04",
+            "serverIp": "42.159.116.104",
+            "conNum": "1",
+            "websocketPort": "0",
+            "mqttPort": "8883",
+            "TS": "1504665880572"
+        },
+        {
+            "cpuRatio": "2.04",
+            "serverIp": "42.159.122.251",
+            "conNum": "2",
+            "websocketPort": "0",
+            "mqttPort": "8883",
+            "TS": "1504665896981"
+        }
+    ]
+}

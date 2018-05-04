@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jsondemo", "jsondemo\jsondemo.vcxproj", "{5CA3B798-EC7A-49F1-A7DE-F5E6F868C138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA3B798-EC7A-49F1-A7DE-F5E6F868C138}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CA3B798-EC7A-49F1-A7DE-F5E6F868C138}.Debug|Win32.Build.0 = Debug|Win32
+		{5CA3B798-EC7A-49F1-A7DE-F5E6F868C138}.Debug|x64.ActiveCfg = Debug|x64
+		{5CA3B798-EC7A-49F1-A7DE-F5E6F868C138}.Debug|x64.Build.0 = Debug|x64
+		{5CA3B798-EC7A-49F1-A7DE-F5E6F868C138}.Release|Win32.ActiveCfg = Release|Win32
+		{5CA3B798-EC7A-49F1-A7DE-F5E6F868C138}.Release|Win32.Build.0 = Release|Win32
+		{5CA3B798-EC7A-49F1-A7DE-F5E6F868C138}.Release|x64.ActiveCfg = Release|x64
+		{5CA3B798-EC7A-49F1-A7DE-F5E6F868C138}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA67F9E-DCAC-4744-8EA8-B6CB3422054E}
+	EndGlobalSection
+EndGlobal
